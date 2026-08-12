@@ -1,5 +1,4 @@
 # G9_AI66A_SE
-
 One-paragraph description of what your team is building goes here.
 
 ## Team
@@ -8,6 +7,8 @@ One-paragraph description of what your team is building goes here.
 | --- | --- | --- |
 | _Nguyễn Phùng Hóa_ | PhunghoaAI | |
 
+| _add yourself here_ | | |
+| Hoàng Thị Ngọc Hân | htngochan2802 |npc |
 ## Setup
 
 ```bash

@@ -11,6 +11,7 @@ One-paragraph description of what your team is building goes here.
 | Hoàng Thị Ngọc Hân | htngochan2802 |npc |
 ## Setup
 
+Leader : Nguyen Khac Thu
 ```bash
 git clone <this-repo-url>
 cd <repo-name>

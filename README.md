@@ -5,6 +5,8 @@ One-paragraph description of what your team is building goes here.
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
+| _Nguyễn Phùng Hóa_ | PhunghoaAI | |
+
 | _add yourself here_ | | |
 | Hoàng Thị Ngọc Hân | htngochan2802 |npc |
 ## Setup

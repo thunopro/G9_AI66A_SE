@@ -4,13 +4,13 @@ One-paragraph description of what your team is building goes here.
 
 ## Team
 
-| Name               | GitHub username | Role |
-| ------------------ | --------------- | ---- |
-| _Nguyễn Phùng Hóa_ | PhunghoaAI      |      |
-
-| _add yourself here_ | | |
-| Hoàng Thị Ngọc Hân | htngochan2802 |npc ||
-| Lê Quang | lequangk2006-sys |npc| |
+| Name | GitHub username | Role |
+| --- | --- | --- |
+| Nguyễn Khắc Thụ | | Leader |
+| Nguyên | | |
+| Nguyễn Phùng Hóa | PhunghoaAI | |
+| Lê Quang | lequangk2006-sys | |
+| Hoàng Thị Ngọc Hân | htngochan2802 | |
 
 ## Setup
 

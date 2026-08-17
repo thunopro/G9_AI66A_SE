@@ -10,7 +10,7 @@ One-paragraph description of what your team is building goes here.
 
 | _add yourself here_ | | |
 | Hoàng Thị Ngọc Hân | htngochan2802 |npc ||
-| Lê Quang | lequangk2006-sys |npc |
+| Lê Quang | lequangk2006-sys |npc| |
 
 ## Setup
 

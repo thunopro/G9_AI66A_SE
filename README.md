@@ -6,8 +6,8 @@ One-paragraph description of what your team is building goes here.
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
-| Nguyễn Khắc Thụ | | Leader |
-| Nguyên | | |
+| Nguyễn Khắc Thụ | thunopro | Leader |
+| Nguyễn Khôi Nguyên | peng543 | |
 | Nguyễn Phùng Hóa | PhunghoaAI | |
 | Lê Quang | lequangk2006-sys | |
 | Hoàng Thị Ngọc Hân | htngochan2802 | |
